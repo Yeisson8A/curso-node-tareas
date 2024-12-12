@@ -1,2 +1,2 @@
 # Notas:
-Programa de consola para manejo de tareas por hacer con menú interactivo
+Programa de consola desarrollado en NodeJS para manejo de tareas por hacer con menú interactivo
